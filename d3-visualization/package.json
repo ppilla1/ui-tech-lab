@@ -1,0 +1,18 @@
+{
+  "name": "d3-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-array": "^3.2.0",
+    "d3-dsv": "^3.0.1",
+    "d3-fetch": "^3.0.1",
+    "d3-time-format": "^4.1.0"
+  }
+}
